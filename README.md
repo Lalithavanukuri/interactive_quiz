@@ -19,3 +19,6 @@ This interactive quiz app is a fun and engaging way to test your knowledge! Buil
 **Customization:**
 Feel free to customize the quiz content, styles, and add more features to suit your preferences. The app uses Google Fonts for a modern and readable text display.
  improvements are welcome! If you have suggestions or enhancements, open an issue or submit a pull request.
+
+ The screenshots are attached above as Interactive quiz app.pdf
+ 
